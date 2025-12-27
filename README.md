@@ -65,7 +65,7 @@ ________________________________________________________
 | Tkinter	          |       GUI development           |
 | SQLite	          |       Database                  | 
 | VS Code	          |       Development environment   |
-|_____________________|_________________________________|
+|___________________|_________________________________|
 
 📁 Project Folder Structure
 FocusFlow/
@@ -85,8 +85,8 @@ FocusFlow/
 Users Table:
 
 __________________________________________________
-| Column	      |          Type                |  
-| id	          |      INTEGER (Primary Key)   | 
+| Column	        |          Type                |  
+| id	            |      INTEGER (Primary Key)   | 
 | username	      |       TEXT                   |
 | password	      |       TEXT                   | 
 |_________________|______________________________|
@@ -94,9 +94,9 @@ __________________________________________________
 
 Notes Table:
 __________________________________________________
-| Column	      |          Type                |  
-| id	          |       INTEGER                | 
-| user_id	      |       INTEGER                |
+| Column	        |          Type                |  
+| id	            |       INTEGER                | 
+| user_id	        |       INTEGER                |
 | title	          |       TEXT                   | 
 | content         |       TEXT                   |
 | category        |       TEXT                   | 
@@ -105,9 +105,9 @@ __________________________________________________
 
 Tasks Table:
 __________________________________________________
-| Column	      |          Type                |  
-| id	          |       INTEGER                | 
-| user_id	      |       INTEGER                |
+| Column	        |          Type                |  
+| id	            |       INTEGER                | 
+| user_id	        |       INTEGER                |
 | title	          |       TEXT                   | 
 | priority        |       TEXT                   |
 | status          |       TEXT                   | 
